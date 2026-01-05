@@ -16,7 +16,7 @@ layout:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+    - #TODO: update link
 ---
 
 # Developer Platform
